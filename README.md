@@ -1,7 +1,3 @@
-Here's a refined version of your README:
-
----
-
 # GitHub User Activity Tracker
 
 A simple CLI project that uses the GitHub API to fetch and display a user's recent activity directly in the terminal.
@@ -69,5 +65,3 @@ Output:
 - Enhance output formatting.
 
 ---
-
-This version is clean, professional, and includes additional helpful details.
